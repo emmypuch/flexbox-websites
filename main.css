@@ -563,7 +563,7 @@ ul.contact-content {
   }
 
   .banner-area .banner-img {
-    background-image: url("https://img.pngio.com/390-new-york-hd-wallpapers-background-images-wallpaper-abyss-new-york-city-background-png-2880_1800.png");
+    background-image: url("images/header.png");
     position: absolute;
     top: 0;
     left: 0;
@@ -664,7 +664,7 @@ ul.contact-content {
 
   .about-left {
     flex-basis: 40%;
-    background-image: url("https://images7.alphacoders.com/967/967896.png");
+    background-image: url("images/about.png");
   }
 
   .about-right {
